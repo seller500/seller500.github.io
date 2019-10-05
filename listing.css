@@ -32,6 +32,7 @@ img {
   text-align: center;
   width: 100%;
 }
+/*
 #est-header {
   background: #fff url("../images/footer_bg.png") no-repeat scroll center top;
   margin: 0;
@@ -39,6 +40,7 @@ img {
   position: relative;
   width: 100%;
 }
+*/
 .est-header {
   margin: 0 auto;
   padding: 0;
@@ -128,6 +130,7 @@ img {
 	font-family: 'Lato', sans-serif;
 	font-size: 16px;
 }
+/*
 .desc-text ul li {
   background: rgba(0, 0, 0, 0) url("../images/bullet.png") no-repeat scroll left 2px;
   box-sizing: border-box;
@@ -137,8 +140,10 @@ img {
   text-indent: 20px;
   width: 100%;
 }
+*/
 /******************** End content css *********************/
 /******************** Start footer css *********************/
+/*
 .est-wrapcens {
   background: #fff url("../images/footer_bg.png") no-repeat scroll center top;
   margin: 0;
@@ -146,6 +151,7 @@ img {
   text-align: center;
   width: 100%;
 }
+*/
 #est-footer {
   margin: 0 auto;
   max-width: 1000px;
