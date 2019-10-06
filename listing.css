@@ -4,7 +4,7 @@ body {
 	padding: 0px;
 	width: 100%;
 	margin: 0px;
-	font-family: 'Arial', sans-serif;
+	font-family: Arial, Helvetica, sans-serif;
 }
 img {
   max-width: 100%;
@@ -95,7 +95,7 @@ img {
 }
 .desc-text {
   color: #323232;
-  font-family: "Arial",sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 14px;
   font-weight: normal;
   line-height: 18px;
@@ -115,7 +115,7 @@ img {
 	padding: 0;
 	list-style: none;
 	text-align: left;
-	font-family: 'Arial', sans-serif;
+	font-family: Arial, Helvetica, sans-serif;
 	font-size: 20px;
 	text-transform: uppercase;
 }
@@ -125,7 +125,7 @@ img {
 	padding: 0;
 	list-style: none;
 	text-align: left;
-	font-family: 'Arial', sans-serif;
+	font-family: Arial, Helvetica, sans-serif;
 	font-size: 16px;
 }
 .desc-text ul li {
@@ -155,7 +155,7 @@ img {
 }
 #est-footer #est-copy {
   color: #323232;
-  font-family: "Arial",sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 12px;
   font-weight: 400;
   padding: 25px 0;
