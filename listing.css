@@ -111,7 +111,9 @@ img {
 }
 
 #templatedesctxt img {
-  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .desc-text ul h1 {
