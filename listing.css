@@ -110,10 +110,8 @@ img {
 	text-align: left;
 }
 
-.desc-text img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+#templatedesctxt img {
+  text-align: center;
 }
 
 .desc-text ul h1 {
