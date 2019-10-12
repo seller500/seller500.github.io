@@ -99,7 +99,7 @@ img {
   font-size: 14px;
   font-weight: normal;
   line-height: 18px;
-  /*text-align: center;*/
+  text-align: left;
   text-decoration: none;
 }
 .desc-text ul {
@@ -109,6 +109,13 @@ img {
 	list-style: none;
 	text-align: left;
 }
+
+.desc-text img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .desc-text ul h1 {
 	width: 100%;
 	margin: 0 0 5px 0;
